@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    border-radius: 2em;
+    font-size: 30px;
+    padding: 10px 0px;
+    background-color:gray;
+}
+fieldset{
+    border-radius: 1em;
+    text-align: justify;
+    border: 3px solid black;
+    padding: 5px 15px;
+}
+.sec{
+    border: 3px solid black;
+}
+.sec3{
+    border: 3px solid black;
+}
+button{
+    background-color: red;
+    padding: 10px 30px;
+    margin-top: 10px;
+    border-radius: 2em;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+    color: blue;
+}
